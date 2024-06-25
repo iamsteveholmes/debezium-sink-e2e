@@ -1,0 +1,102 @@
+{
+  "lockfile_version": "1",
+  "packages": {
+    "gradle@latest": {
+      "last_modified": "2024-06-24T10:03:30Z",
+      "plugin_version": "0.0.1",
+      "resolved": "github:NixOS/nixpkgs/efb39c6052f3ce51587cf19733f5f4e5d515aa13#gradle",
+      "source": "devbox-search",
+      "version": "8.8",
+      "systems": {
+        "aarch64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/72gbgxzajnsjbwgag5ixr51k23vd5a1s-gradle-8.8",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/72gbgxzajnsjbwgag5ixr51k23vd5a1s-gradle-8.8"
+        },
+        "aarch64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/54n2cnzzaqhhly4kbc7jzic83kg3agvc-gradle-8.8",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/54n2cnzzaqhhly4kbc7jzic83kg3agvc-gradle-8.8"
+        },
+        "x86_64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/lpq7zzzi04x0v85m1gi6i7nvkibsbq4q-gradle-8.8",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/lpq7zzzi04x0v85m1gi6i7nvkibsbq4q-gradle-8.8"
+        },
+        "x86_64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/l9ahrjwmr2djd1c469skgk3wci2ydf5v-gradle-8.8",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/l9ahrjwmr2djd1c469skgk3wci2ydf5v-gradle-8.8"
+        }
+      }
+    },
+    "temurin-bin@latest": {
+      "last_modified": "2024-06-12T20:55:33Z",
+      "resolved": "github:NixOS/nixpkgs/a9858885e197f984d92d7fe64e9fff6b2e488d40#temurin-bin",
+      "source": "devbox-search",
+      "version": "21.0.1",
+      "systems": {
+        "aarch64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/kx7xaz7kcz1rygshs1ngcgsjg65kcyzm-temurin-bin-21.0.1",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/kx7xaz7kcz1rygshs1ngcgsjg65kcyzm-temurin-bin-21.0.1"
+        },
+        "aarch64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/brh8hhgc99b8icif8y1vf53xpirvabis-temurin-bin-21.0.1",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/brh8hhgc99b8icif8y1vf53xpirvabis-temurin-bin-21.0.1"
+        },
+        "x86_64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/qv3jkyhgna9y9fav4cv000nskch1lyzd-temurin-bin-21.0.1",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/qv3jkyhgna9y9fav4cv000nskch1lyzd-temurin-bin-21.0.1"
+        },
+        "x86_64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/r62kd5ndkydfc3jmpzfqd105zwibd7n4-temurin-bin-21.0.1",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/r62kd5ndkydfc3jmpzfqd105zwibd7n4-temurin-bin-21.0.1"
+        }
+      }
+    }
+  }
+}
